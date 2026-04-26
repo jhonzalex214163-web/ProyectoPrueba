@@ -4,6 +4,6 @@ $valorhra = readline("Ingrese el valor de la hora: ");
 
 $salario = $numhoras * $valorhra;
 
-echo "El salario minimo es: $salario\n";
+echo "El salario diario es: $salario\n";
 
 ?>
